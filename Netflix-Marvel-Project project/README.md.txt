@@ -20,4 +20,4 @@ Analyze the most watched Marvel movies on Netflix using Python and data visualiz
 Contains Marvel movie ratings, runtime, and estimated views.
 
 ## Author
-Shivakumar
+Shivakumar Baloorgi
